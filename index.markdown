@@ -26,7 +26,7 @@ layout: home
 
 
 <li>
-2022-01-21 - PL🇵🇱 - How to use steve’s jobs to improve devel👩‍💻🧑‍💻pers’ experience
+2022-17-11 - PL🇵🇱 - How to use steve’s jobs to improve devel👩‍💻🧑‍💻pers’ experience
 <a href="https://www.facebook.com/events/625987642348871/">@ Let Swift #26 Meetup</a> |
 <a href="https://speakerdeck.com/maciejpiotrowski89/how-to-use-steves-jobs-to-improve-devel-pers-experience">🎞</a> |
 <a href="https://fb.watch/h2YqUyml_0/">🎥</a> |
