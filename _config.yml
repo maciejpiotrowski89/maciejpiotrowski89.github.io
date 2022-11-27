@@ -1,0 +1,24 @@
+title: Maciej Piotrowski
+description: List of presentations from Meetups and Conferences
+minima:
+  social_links:
+    twitter: macpiotrowski89
+author:
+  email: paciej00@gmail.com
+url: "https://maciejpiotrowski89-tech.github.io"
+twitter_username: macpiotrowski89
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
