@@ -24,7 +24,12 @@ layout: home
 
 
 
-
+<li>
+2023-10-24 - EN🇬🇧 - Bazel-building an iOS app containing 350+ frameworks
+<a href="https://rsvp.withgoogle.com/events/bazelcon2023/sessions/day1-talk18">@ BazelCon 2023</a> |
+<!-- <a href="https://speakerdeck.com/maciejpiotrowski89/how-to-use-steves-jobs-to-improve-devel-pers-experience">🎞</a> | -->
+<a href="https://www.youtube.com/watch?v=1DIJU1yao_g">🎥</a> |
+</li>
 <li>
 2022-11-17 - PL🇵🇱 - How to use steve’s jobs to improve devel👩‍💻🧑‍💻pers’ experience
 <a href="https://www.facebook.com/events/625987642348871/">@ Let Swift #26 Meetup</a> |
